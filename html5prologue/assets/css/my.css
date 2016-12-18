@@ -1,0 +1,38 @@
+#about img{
+	display: inline-block;
+	max-height: 50%;
+	max-width: 50%;
+	border-radius: 50%;
+
+}
+
+#about .container{
+	text-align: center;
+}
+
+#mainurack section.introurack {
+/*background-color: #fff;*/
+}
+
+.portfolio-header {
+	max-width: 100%;
+	max-height: 100%;
+}
+.body-intro  {
+	font-size: 140%;
+}
+
+.img-banner {
+	display: inline-block;
+	max-height: 30%;
+	max-width: 30%;
+	margin: 5%;
+}
+.img-thumbnail {
+	border: 1px solid #ddd;
+    border-radius: 4px;
+    padding: 5px;
+    display: inline-block;
+    height: auto;
+    max-width:  50%;
+}
