@@ -57,3 +57,16 @@
 b{
 	font-weight: 400;
 }
+
+div.blocks {
+display: inline;
+}
+
+div.divlt, div.divrt {
+float: left;
+}
+
+div.bot {
+clear: both;
+float: none;
+}
