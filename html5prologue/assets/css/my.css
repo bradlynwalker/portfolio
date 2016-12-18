@@ -49,7 +49,6 @@
 }
 
 .branch-heading {
-	text-align: left;
 	padding-bottom: 5px;
 	font-weight: bold;
 }
@@ -58,15 +57,3 @@ b{
 	font-weight: 400;
 }
 
-div.blocks {
-display: inline;
-}
-
-div.divlt, div.divrt {
-float: left;
-}
-
-div.bot {
-clear: both;
-float: none;
-}
