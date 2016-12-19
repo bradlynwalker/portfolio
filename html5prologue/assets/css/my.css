@@ -70,3 +70,6 @@ b{
 	background-color: #bfbfbf;
 	background-image: url("images/overlay.png");
 }
+.icon .fa-chevron-left {
+	color: #fff;
+}
