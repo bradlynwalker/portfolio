@@ -58,7 +58,7 @@ b{
 
 .deliverableinfo {
 	background-color: #d8d8d8;
-	background-image: url("images/overlay.png");
+	background-image: url("images/graphydark.png");
 }
 
 .headertext {
@@ -68,14 +68,5 @@ b{
 
 .gallery {
 	background-color: #bfbfbf;
-	background-image: url("images/overlay.png");
+	background-image: url("images/graphydark.png");
 }
-
-	#nav ul li a span .not-scrollspy:before {
-		position: absolute;
-		left: 0;
-		color: #fff;
-		text-align: center;
-		width: 1.25em;
-		line-height: 1.75em;
-	}
