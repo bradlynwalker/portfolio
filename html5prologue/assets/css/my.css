@@ -34,6 +34,15 @@
     background: linear-gradient(#fc5f7f, #dd546f);
 }
 
+.img-banner-cappres {
+	display: inline-block;
+	max-height: 10%;
+	max-width: 10%;
+	margin: 1%;
+	padding: 1%;
+    border-radius: 10%;
+    background: linear-gradient(#D86C18, #D66B19);
+}
 .img-demo{
     border-radius: 4px;
     padding: 1%;
@@ -69,4 +78,8 @@ b{
 .gallery {
 	background-color: #bfbfbf;
 	background-image: url("images/graphydark.png");
+}
+
+.smallernav {
+	font-size: 75%;
 }
