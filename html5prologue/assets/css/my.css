@@ -83,3 +83,20 @@ b{
 .smallernav {
 	font-size: 75%;
 }
+
+a.indexlink {
+		text-decoration: none;
+		color: inherit;
+		border-bottom: none;
+		-moz-transition: color 0.35s ease-in-out, border-bottom-color 0.35s ease-in-out;
+		-webkit-transition: color 0.35s ease-in-out, border-bottom-color 0.35s ease-in-out;
+		-ms-transition: color 0.35s ease-in-out, border-bottom-color 0.35s ease-in-out;
+		transition: color 0.35s ease-in-out, border-bottom-color 0.35s ease-in-out;
+		outline: 0;
+	}
+
+		a.indexlink:hover {
+			color: #fc5f7f;
+			border-bottom-color: rgba(255, 255, 255, 0);
+		}
+}
