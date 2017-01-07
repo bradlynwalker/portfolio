@@ -100,3 +100,20 @@ a.indexlink {
 			border-bottom-color: rgba(255, 255, 255, 0);
 		}
 }
+
+.bannertext { 
+   position: relative; 
+   width: 100%; /* for IE 6 */
+}
+
+h4.bannertext { 
+   position: absolute; 
+   top: 200px; 
+   left: 0; 
+   width: 100%; 
+}
+
+.bulletblock {
+	padding-left: 10%;
+	text-align: justify;
+}
