@@ -149,3 +149,8 @@ h4.bannertext {
 .grid figure img {
 	opacity: .75;
 }
+
+#main > section.oneabout {
+				background-color: #81918E;
+				background-image: url("../../images/WIP.gif");
+			}
