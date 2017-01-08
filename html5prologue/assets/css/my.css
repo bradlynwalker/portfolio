@@ -128,3 +128,24 @@ h4.bannertext {
 	padding-left: 10%;
 	text-align: justify;
 }
+
+.grid figure {
+	background: none;
+	min-width: none;
+	max-width: none;
+	max-height: none;
+	width: 100%;
+}
+
+.grid figure h2 {
+	font-size: 1.1em;
+	padding-top: 0;
+}
+
+.grid figure figcaption {
+	color: #666;
+}
+
+.grid figure img {
+	opacity: .75;
+}
