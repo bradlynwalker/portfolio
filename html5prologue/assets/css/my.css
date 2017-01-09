@@ -54,6 +54,16 @@
     background: linear-gradient(#9772AD, #9A73B0);
 }
 
+.img-banner-stroop {
+	display: inline-block;
+	max-height: 10%;
+	max-width: 10%;
+	margin: 1%;
+	padding: 1%;
+    border-radius: 10%;
+    background: linear-gradient(#7DBC7B, #8ECE9C);
+}
+
 .img-demo{
     border-radius: 4px;
     padding: 1%;
