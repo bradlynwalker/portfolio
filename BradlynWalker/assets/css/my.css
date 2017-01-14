@@ -161,6 +161,8 @@ h4.bannertext {
 }
 
 #main > section.oneabout {
-				background-color: #81918E;
-				background-image: url("../../images/WIP.gif");
+	background-color: #fff;
+	background-image: url("../../images/BannerAbout.png");
+	max-width: 100%;
+}
 			}
