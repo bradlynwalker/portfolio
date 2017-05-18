@@ -1643,7 +1643,7 @@
 	}
 
 		a:hover {
-			color: #fc5f7f;
+			color: #FF5888;
 			border-bottom-color: rgba(255, 255, 255, 0);
 		}
 
@@ -1710,7 +1710,7 @@
 		.image.avatar48 {
 			width: 48px;
 			height: 48px;
-			background: #f00;
+			background: #222629;
 		}
 
 			.image.avatar48 img {
@@ -1922,7 +1922,7 @@
 		input[type="reset"]:hover,
 		button:hover,
 		.button:hover {
-			background-color: #9ececc;
+			background-color: #FF5888;
 		}
 
 		input[type="button"]:active,
@@ -2105,7 +2105,7 @@
 			}
 
 				#nav ul li a.active span:before {
-					color: #fc5f7f;
+					color: #FF5888;
 				}
 
 /* Footer */
@@ -2184,7 +2184,7 @@
 
 			#main > section.one {
 				background-color: #81918E;
-				background-image: url("../../images/header.jpg");
+				background-image: url("../../images/header051517.png");
 			}
 
 			#main > section.two {

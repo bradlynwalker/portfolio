@@ -31,7 +31,7 @@
 	margin: 1%;
 	padding: 1%;
     border-radius: 10%;
-    background: linear-gradient(#fc5f7f, #dd546f);
+    background: linear-gradient(#FF5888, #dd546f);
 }
 
 .img-banner-cappres {
@@ -117,7 +117,7 @@ a.indexlink {
 	}
 
 		a.indexlink:hover {
-			color: #fc5f7f;
+			color: #FF5888;
 			border-bottom-color: rgba(255, 255, 255, 0);
 		}
 }
@@ -165,4 +165,4 @@ h4.bannertext {
 	background-image: url("../../images/BannerAbout.png");
 	max-width: 100%;
 }
-			}
+
